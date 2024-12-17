@@ -58,15 +58,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "Cookies"
-   pageRef = "/"
-   weight = 10
-
- [[footer]]
-   name = "Web design"
-   pageRef = "/"
-   weight = 20
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
 
 # [[footer]]
 #   name = "Categories"
